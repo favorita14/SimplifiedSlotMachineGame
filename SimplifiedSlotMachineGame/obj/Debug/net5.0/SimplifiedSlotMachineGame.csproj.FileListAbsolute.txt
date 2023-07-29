@@ -1,0 +1,16 @@
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.csproj.AssemblyReference.cache
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.AssemblyInfoInputs.cache
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.AssemblyInfo.cs
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.csproj.CoreCompileInputs.cache
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\SimplifiedSlotMachineGame.exe
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\SimplifiedSlotMachineGame.deps.json
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\SimplifiedSlotMachineGame.runtimeconfig.json
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\SimplifiedSlotMachineGame.runtimeconfig.dev.json
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\SimplifiedSlotMachineGame.dll
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\ref\SimplifiedSlotMachineGame.dll
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\bin\Debug\net5.0\SimplifiedSlotMachineGame.pdb
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.dll
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\ref\SimplifiedSlotMachineGame.dll
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.pdb
+C:\Iliyan\Visual studio\Examples\Project2\SimplifiedSlotMachineGame\SimplifiedSlotMachineGame\obj\Debug\net5.0\SimplifiedSlotMachineGame.genruntimeconfig.cache
